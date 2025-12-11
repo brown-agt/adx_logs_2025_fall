@@ -1,0 +1,4050 @@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  2660.80 	###
+
+	### jet2holiday  	#  2426.13 	###
+
+	### TA - Dust II B Anchor 	#  1965.45 	###
+
+	### HTandRX's Agent 	#  1484.75 	###
+
+	### Randombot67  	#  1476.98 	###
+
+	### Mini_Pekka   	#  1273.65 	###
+
+	### qwer         	#  1115.07 	###
+
+	### ws           	#  1011.03 	###
+
+	### clash_royale 	#   804.66 	###
+
+	### Updawg       	#   440.88 	###
+
+	### brawl_stars  	#   205.05 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   172.89 	###
+
+	### aiayn        	#   169.70 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   152.12 	###
+
+	### ExaBot       	#   111.91 	###
+
+	### YEKINDAR     	#    27.86 	###
+
+	### splendor     	#     1.08 	###
+
+	### Tier 3 Agent 	#    -4.25 	###
+
+	### MegaKnight   	#  -799.54 	###
+
+	### Testing1     	# -1222.82 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### YEKINDAR     	#  4121.15 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2067.17 	###
+
+	### jet2holiday  	#  1935.02 	###
+
+	### clash_royale 	#  1934.78 	###
+
+	### qwer         	#  1872.87 	###
+
+	### aiayn        	#  1596.37 	###
+
+	### ws           	#  1517.85 	###
+
+	### TA - Dust II B Anchor 	#  1322.47 	###
+
+	### splendor     	#  1152.02 	###
+
+	###              	#  1090.32 	###
+
+	### HTandRX's Agent 	#   580.67 	###
+
+	### Mini_Pekka   	#   419.37 	###
+
+	### Randombot67  	#   332.15 	###
+
+	### Updawg       	#   139.83 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.59 	###
+
+	### brawl_stars  	#   -32.30 	###
+
+	### ExaBot       	#  -358.32 	###
+
+	### MegaKnight   	#  -486.83 	###
+
+	### Testing1     	# -1483.49 	###
+
+	###########################################
+
+	@@@ WINNER: YEKINDAR @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### splendor     	#  3274.86 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#  2798.85 	###
+
+	### HTandRX's Agent 	#  2685.55 	###
+
+	### ws           	#  2657.39 	###
+
+	### Mini_Pekka   	#  2276.64 	###
+
+	### TA - Dust II B Anchor 	#  2173.79 	###
+
+	### ExaBot       	#  1623.42 	###
+
+	### qwer         	#  1601.83 	###
+
+	### brawl_stars  	#  1290.00 	###
+
+	### MegaKnight   	#   981.02 	###
+
+	### aiayn        	#   841.02 	###
+
+	### clash_royale 	#   719.42 	###
+
+	### YEKINDAR     	#   582.59 	###
+
+	### Tier 3 Agent 	#   195.40 	###
+
+	### Randombot67  	#   105.91 	###
+
+	###              	#    86.54 	###
+
+	### Updawg       	#     0.00 	###
+
+	### jet2holiday  	#   -87.58 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  -139.44 	###
+
+	### Testing1     	#  -462.40 	###
+
+	###########################################
+
+	@@@ WINNER: splendor @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  6833.53 	###
+
+	###              	#  3130.07 	###
+
+	### qwer         	#  2578.79 	###
+
+	### HTandRX's Agent 	#  1662.46 	###
+
+	### brawl_stars  	#  1089.90 	###
+
+	### ws           	#  1052.50 	###
+
+	### jet2holiday  	#   990.34 	###
+
+	### Mini_Pekka   	#   972.09 	###
+
+	### Randombot67  	#   601.96 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   535.18 	###
+
+	### splendor     	#   464.04 	###
+
+	### clash_royale 	#   290.89 	###
+
+	### TA - Dust II B Anchor 	#   184.80 	###
+
+	### MegaKnight   	#   102.46 	###
+
+	### YEKINDAR     	#    46.91 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -9.76 	###
+
+	### Updawg       	#   -20.21 	###
+
+	### ExaBot       	#  -680.43 	###
+
+	### Testing1     	# -1890.13 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3788.17 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3321.59 	###
+
+	### jet2holiday  	#  3317.14 	###
+
+	### splendor     	#  2894.32 	###
+
+	### aiayn        	#  2094.63 	###
+
+	### qwer         	#  2083.75 	###
+
+	### TA - Dust II B Anchor 	#  1984.30 	###
+
+	### clash_royale 	#  1836.52 	###
+
+	### Updawg       	#  1834.67 	###
+
+	### MegaKnight   	#  1807.28 	###
+
+	### Randombot67  	#  1275.67 	###
+
+	### ExaBot       	#  1161.23 	###
+
+	### brawl_stars  	#   621.61 	###
+
+	###              	#   572.49 	###
+
+	### YEKINDAR     	#   263.26 	###
+
+	### Mini_Pekka   	#    21.68 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.71 	###
+
+	### HTandRX's Agent 	#  -117.04 	###
+
+	### Testing1     	# -1425.45 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  3283.06 	###
+
+	### Randombot67  	#  3144.35 	###
+
+	### aiayn        	#  3127.51 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1580.48 	###
+
+	### ws           	#  1576.62 	###
+
+	### brawl_stars  	#  1407.65 	###
+
+	### TA - Dust II B Anchor 	#  1084.38 	###
+
+	### splendor     	#  1063.68 	###
+
+	### qwer         	#   850.81 	###
+
+	### HTandRX's Agent 	#   438.20 	###
+
+	### Mini_Pekka   	#   425.70 	###
+
+	### Updawg       	#   356.47 	###
+
+	### YEKINDAR     	#   247.93 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   167.27 	###
+
+	### Testing1     	#   160.09 	###
+
+	### Tier 3 Agent 	#    -2.03 	###
+
+	### jet2holiday  	#    -2.74 	###
+
+	###              	#  -247.67 	###
+
+	### MegaKnight   	#  -347.16 	###
+
+	### ExaBot       	# -1356.12 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3943.18 	###
+
+	### ws           	#  3633.16 	###
+
+	### aiayn        	#  2898.07 	###
+
+	### HTandRX's Agent 	#  2346.59 	###
+
+	### Mini_Pekka   	#  2254.08 	###
+
+	### Randombot67  	#  2247.43 	###
+
+	### ExaBot       	#  1275.18 	###
+
+	### TA - Dust II B Anchor 	#   810.22 	###
+
+	###              	#   729.84 	###
+
+	### qwer         	#   628.93 	###
+
+	### Updawg       	#   362.30 	###
+
+	### brawl_stars  	#   285.63 	###
+
+	### clash_royale 	#   226.65 	###
+
+	### YEKINDAR     	#    67.25 	###
+
+	### jet2holiday  	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.18 	###
+
+	### Testing1     	#  -246.05 	###
+
+	### MegaKnight   	#  -378.44 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### YEKINDAR     	#  5346.78 	###
+
+	### TA - Dust II B Anchor 	#  2692.97 	###
+
+	###              	#  2061.92 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1880.05 	###
+
+	### clash_royale 	#  1451.06 	###
+
+	### aiayn        	#  1133.69 	###
+
+	### Randombot67  	#  1112.91 	###
+
+	### qwer         	#   993.53 	###
+
+	### jet2holiday  	#   991.44 	###
+
+	### splendor     	#   987.49 	###
+
+	### Updawg       	#   793.40 	###
+
+	### Mini_Pekka   	#   356.94 	###
+
+	### ws           	#   292.98 	###
+
+	### HTandRX's Agent 	#   245.17 	###
+
+	### brawl_stars  	#    44.48 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.87 	###
+
+	### MegaKnight   	#  -183.66 	###
+
+	### ExaBot       	#  -229.19 	###
+
+	### Testing1     	# -1687.03 	###
+
+	###########################################
+
+	@@@ WINNER: YEKINDAR @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ExaBot       	#  5885.22 	###
+
+	### MegaKnight   	#  4751.60 	###
+
+	###              	#  2765.51 	###
+
+	### ws           	#  2407.51 	###
+
+	### HTandRX's Agent 	#  1991.03 	###
+
+	### aiayn        	#  1526.83 	###
+
+	### TA - Dust II B Anchor 	#  1380.50 	###
+
+	### Mini_Pekka   	#  1292.14 	###
+
+	### qwer         	#  1236.48 	###
+
+	### clash_royale 	#  1096.03 	###
+
+	### Randombot67  	#   742.48 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   660.25 	###
+
+	### brawl_stars  	#   653.85 	###
+
+	### jet2holiday  	#   121.84 	###
+
+	### YEKINDAR     	#    12.06 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.18 	###
+
+	### Updawg       	#    -4.77 	###
+
+	### Testing1     	# -1445.16 	###
+
+	###########################################
+
+	@@@ WINNER: ExaBot @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  4697.19 	###
+
+	### clash_royale 	#  4564.62 	###
+
+	### ws           	#  3425.54 	###
+
+	### TA - Dust II B Anchor 	#  3190.62 	###
+
+	### brawl_stars  	#  2509.67 	###
+
+	###              	#  1988.58 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1677.89 	###
+
+	### Randombot67  	#  1524.10 	###
+
+	### Mini_Pekka   	#  1195.79 	###
+
+	### Testing1     	#  1057.41 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   909.77 	###
+
+	### HTandRX's Agent 	#   441.49 	###
+
+	### YEKINDAR     	#   110.76 	###
+
+	### Updawg       	#     3.48 	###
+
+	### ExaBot       	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -1.02 	###
+
+	### MegaKnight   	#   -53.63 	###
+
+	### qwer         	#  -144.51 	###
+
+	### jet2holiday  	#  -189.34 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  4091.34 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3209.21 	###
+
+	### clash_royale 	#  2803.08 	###
+
+	### ws           	#  1946.92 	###
+
+	### Mini_Pekka   	#  1893.46 	###
+
+	### Testing1     	#  1270.23 	###
+
+	### Updawg       	#  1251.72 	###
+
+	### aiayn        	#  1040.87 	###
+
+	### qwer         	#   849.41 	###
+
+	### brawl_stars  	#   780.11 	###
+
+	### splendor     	#   715.07 	###
+
+	### Randombot67  	#   706.31 	###
+
+	### ExaBot       	#   640.98 	###
+
+	### YEKINDAR     	#   261.24 	###
+
+	### TA - Dust II B Anchor 	#    83.34 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.94 	###
+
+	### jet2holiday  	#   -42.62 	###
+
+	### MegaKnight   	#   -44.39 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  3821.32 	###
+
+	### TA - Dust II B Anchor 	#  3647.82 	###
+
+	### jet2holiday  	#  3101.94 	###
+
+	### Updawg       	#  2910.75 	###
+
+	###              	#  2844.93 	###
+
+	### ws           	#  2679.46 	###
+
+	### splendor     	#  1937.59 	###
+
+	### Randombot67  	#  1586.00 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   894.54 	###
+
+	### YEKINDAR     	#   503.02 	###
+
+	### aiayn        	#   402.83 	###
+
+	### brawl_stars  	#   380.09 	###
+
+	### Mini_Pekka   	#   318.84 	###
+
+	### qwer         	#   245.46 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### ExaBot       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.89 	###
+
+	### MegaKnight   	#   -65.93 	###
+
+	### Testing1     	#  -837.38 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2781.31 	###
+
+	### Mini_Pekka   	#  2165.89 	###
+
+	###              	#  1924.91 	###
+
+	### aiayn        	#  1769.71 	###
+
+	### ws           	#  1724.06 	###
+
+	### TA - Dust II B Anchor 	#  1515.84 	###
+
+	### ExaBot       	#  1277.37 	###
+
+	### jet2holiday  	#  1259.13 	###
+
+	### Randombot67  	#  1102.38 	###
+
+	### brawl_stars  	#   819.83 	###
+
+	### YEKINDAR     	#   798.84 	###
+
+	### clash_royale 	#   682.73 	###
+
+	### qwer         	#   577.50 	###
+
+	### Updawg       	#   500.61 	###
+
+	### HTandRX's Agent 	#   425.59 	###
+
+	### Testing1     	#   417.63 	###
+
+	### splendor     	#    39.28 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.01 	###
+
+	### MegaKnight   	#  -279.94 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### TA - Dust II B Anchor 	#  2983.23 	###
+
+	### aiayn        	#  2976.19 	###
+
+	### ws           	#  2549.97 	###
+
+	### clash_royale 	#  2519.51 	###
+
+	### ExaBot       	#  2033.21 	###
+
+	### YEKINDAR     	#  1266.00 	###
+
+	###              	#  1241.01 	###
+
+	### qwer         	#  1107.11 	###
+
+	### HTandRX's Agent 	#   962.47 	###
+
+	### Updawg       	#   511.58 	###
+
+	### MegaKnight   	#   499.78 	###
+
+	### brawl_stars  	#   498.20 	###
+
+	### Mini_Pekka   	#   362.41 	###
+
+	### Testing1     	#   124.83 	###
+
+	### jet2holiday  	#    26.29 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#     4.86 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -0.70 	###
+
+	### Randombot67  	#   -67.37 	###
+
+	###########################################
+
+	@@@ WINNER: TA - Dust II B Anchor @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  4637.72 	###
+
+	### aiayn        	#  4186.44 	###
+
+	### Updawg       	#  2194.23 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2038.98 	###
+
+	### qwer         	#  1864.85 	###
+
+	### MegaKnight   	#   953.25 	###
+
+	### TA - Dust II B Anchor 	#   826.25 	###
+
+	### clash_royale 	#   698.37 	###
+
+	### Mini_Pekka   	#   587.08 	###
+
+	### HTandRX's Agent 	#   371.54 	###
+
+	### Testing1     	#   360.48 	###
+
+	### YEKINDAR     	#   352.81 	###
+
+	###              	#   310.03 	###
+
+	### ExaBot       	#   190.99 	###
+
+	### brawl_stars  	#   109.61 	###
+
+	### Randombot67  	#    43.88 	###
+
+	### jet2holiday  	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#   -14.61 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### qwer         	#  4721.62 	###
+
+	### YEKINDAR     	#  3189.86 	###
+
+	### HTandRX's Agent 	#  2855.87 	###
+
+	### TA - Dust II B Anchor 	#  2719.62 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1972.08 	###
+
+	### aiayn        	#  1395.18 	###
+
+	### MegaKnight   	#  1288.01 	###
+
+	### ws           	#  1203.45 	###
+
+	### Testing1     	#  1170.29 	###
+
+	### Randombot67  	#  1010.40 	###
+
+	### Mini_Pekka   	#   957.81 	###
+
+	### splendor     	#   880.02 	###
+
+	### clash_royale 	#   757.66 	###
+
+	### ExaBot       	#    62.71 	###
+
+	###              	#    22.34 	###
+
+	### Updawg       	#     0.00 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.81 	###
+
+	### jet2holiday  	#   -89.71 	###
+
+	###########################################
+
+	@@@ WINNER: qwer @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### YEKINDAR     	#  4528.01 	###
+
+	### Updawg       	#  3068.93 	###
+
+	### HTandRX's Agent 	#  2647.54 	###
+
+	### TA - Dust II B Anchor 	#  2159.98 	###
+
+	### Testing1     	#  2061.75 	###
+
+	### ExaBot       	#  1798.44 	###
+
+	### Randombot67  	#  1653.64 	###
+
+	### ws           	#  1459.86 	###
+
+	### jet2holiday  	#  1252.89 	###
+
+	### clash_royale 	#  1184.19 	###
+
+	### aiayn        	#  1141.42 	###
+
+	### brawl_stars  	#   950.05 	###
+
+	### MegaKnight   	#   719.45 	###
+
+	### splendor     	#   445.70 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   415.31 	###
+
+	### Mini_Pekka   	#   401.07 	###
+
+	### qwer         	#   285.52 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.33 	###
+
+	###              	#   -24.64 	###
+
+	###########################################
+
+	@@@ WINNER: YEKINDAR @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  3469.05 	###
+
+	### splendor     	#  2916.20 	###
+
+	### TA - Dust II B Anchor 	#  2859.40 	###
+
+	###              	#  2508.05 	###
+
+	### Mini_Pekka   	#  2279.41 	###
+
+	### brawl_stars  	#  2048.81 	###
+
+	### clash_royale 	#  1847.01 	###
+
+	### YEKINDAR     	#  1549.14 	###
+
+	### Randombot67  	#  1479.34 	###
+
+	### Updawg       	#  1090.64 	###
+
+	### qwer         	#   950.20 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   693.41 	###
+
+	### ws           	#   550.11 	###
+
+	### HTandRX's Agent 	#   294.95 	###
+
+	### ExaBot       	#     7.96 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.70 	###
+
+	### jet2holiday  	#  -403.11 	###
+
+	### MegaKnight   	#  -641.97 	###
+
+	### Testing1     	# -1142.61 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### brawl_stars  	#  6411.99 	###
+
+	### qwer         	#  4914.27 	###
+
+	### ws           	#  4586.40 	###
+
+	### aiayn        	#  2217.47 	###
+
+	### Randombot67  	#  1876.26 	###
+
+	### jet2holiday  	#  1601.28 	###
+
+	### clash_royale 	#  1484.40 	###
+
+	### YEKINDAR     	#  1385.77 	###
+
+	###              	#   828.83 	###
+
+	### TA - Dust II B Anchor 	#   674.93 	###
+
+	### ExaBot       	#   608.28 	###
+
+	### HTandRX's Agent 	#   280.92 	###
+
+	### Testing1     	#   225.85 	###
+
+	### splendor     	#   187.82 	###
+
+	### MegaKnight   	#    44.04 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.01 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   -63.15 	###
+
+	### Mini_Pekka   	#   -63.70 	###
+
+	###########################################
+
+	@@@ WINNER: brawl_stars @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  5227.93 	###
+
+	### Mini_Pekka   	#  3188.09 	###
+
+	### Randombot67  	#  3021.62 	###
+
+	### TA - Dust II B Anchor 	#  1845.28 	###
+
+	### aiayn        	#  1701.42 	###
+
+	### qwer         	#  1598.06 	###
+
+	### YEKINDAR     	#  1531.69 	###
+
+	### ws           	#  1309.09 	###
+
+	### clash_royale 	#  1267.14 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   941.78 	###
+
+	### splendor     	#   310.66 	###
+
+	### brawl_stars  	#   135.51 	###
+
+	### jet2holiday  	#    33.94 	###
+
+	### Updawg       	#    32.09 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.74 	###
+
+	### Testing1     	#   -43.36 	###
+
+	### ExaBot       	#  -213.56 	###
+
+	### MegaKnight   	#  -302.57 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  4095.43 	###
+
+	### qwer         	#  3789.28 	###
+
+	### Randombot67  	#  2921.70 	###
+
+	### brawl_stars  	#  2401.97 	###
+
+	### ws           	#  2228.21 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2053.42 	###
+
+	### clash_royale 	#  1874.15 	###
+
+	### TA - Dust II B Anchor 	#  1080.33 	###
+
+	### splendor     	#   332.92 	###
+
+	### YEKINDAR     	#   321.94 	###
+
+	### Mini_Pekka   	#   295.43 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   238.82 	###
+
+	### ExaBot       	#   139.32 	###
+
+	### MegaKnight   	#    52.03 	###
+
+	### Updawg       	#    26.61 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	###              	#    -2.57 	###
+
+	### Tier 3 Agent 	#    -4.08 	###
+
+	### jet2holiday  	#   -77.54 	###
+
+	### Testing1     	# -1069.23 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent 	#  3336.18 	###
+
+	### clash_royale 	#  2322.85 	###
+
+	### qwer         	#  2201.87 	###
+
+	###              	#  1669.72 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1418.63 	###
+
+	### Mini_Pekka   	#  1223.74 	###
+
+	### brawl_stars  	#  1214.89 	###
+
+	### Randombot67  	#  1208.87 	###
+
+	### ws           	#  1154.34 	###
+
+	### aiayn        	#  1116.67 	###
+
+	### ExaBot       	#   516.75 	###
+
+	### Updawg       	#   136.11 	###
+
+	### splendor     	#     9.39 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.04 	###
+
+	### YEKINDAR     	#   -42.69 	###
+
+	### jet2holiday  	#  -101.35 	###
+
+	### TA - Dust II B Anchor 	#  -151.30 	###
+
+	### MegaKnight   	# -1069.48 	###
+
+	### Testing1     	# -3566.27 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  5491.76 	###
+
+	### Mini_Pekka   	#  5283.16 	###
+
+	### aiayn        	#  1942.39 	###
+
+	### ws           	#  1875.24 	###
+
+	### MegaKnight   	#  1592.15 	###
+
+	### TA - Dust II B Anchor 	#  1373.13 	###
+
+	### jet2holiday  	#  1329.62 	###
+
+	### YEKINDAR     	#   796.44 	###
+
+	### HTandRX's Agent 	#   786.89 	###
+
+	### brawl_stars  	#   661.57 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   189.94 	###
+
+	### qwer         	#   133.91 	###
+
+	### Randombot67  	#   120.18 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#    41.98 	###
+
+	### Updawg       	#     0.00 	###
+
+	### ExaBot       	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.33 	###
+
+	### clash_royale 	#   -94.54 	###
+
+	### Testing1     	# -1037.78 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  3379.46 	###
+
+	###              	#  2688.75 	###
+
+	### ws           	#  2550.42 	###
+
+	### TA - Dust II B Anchor 	#  2462.14 	###
+
+	### HTandRX's Agent 	#  1706.73 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1568.62 	###
+
+	### YEKINDAR     	#  1568.06 	###
+
+	### Updawg       	#  1393.41 	###
+
+	### qwer         	#  1389.69 	###
+
+	### Mini_Pekka   	#  1385.00 	###
+
+	### clash_royale 	#   886.23 	###
+
+	### Testing1     	#   380.16 	###
+
+	### jet2holiday  	#   193.04 	###
+
+	### splendor     	#   159.74 	###
+
+	### Randombot67  	#    26.56 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.53 	###
+
+	### MegaKnight   	#  -333.03 	###
+
+	### ExaBot       	#  -347.87 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  5059.96 	###
+
+	### aiayn        	#  4060.35 	###
+
+	### ExaBot       	#  3617.39 	###
+
+	### MegaKnight   	#  3519.80 	###
+
+	### Randombot67  	#  1958.37 	###
+
+	### YEKINDAR     	#  1394.98 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#  1365.57 	###
+
+	### qwer         	#   968.75 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   906.85 	###
+
+	### HTandRX's Agent 	#   693.22 	###
+
+	### Mini_Pekka   	#   559.76 	###
+
+	### brawl_stars  	#   172.52 	###
+
+	### clash_royale 	#    95.10 	###
+
+	### jet2holiday  	#    92.08 	###
+
+	### splendor     	#    57.58 	###
+
+	### ws           	#    37.91 	###
+
+	### Updawg       	#     0.00 	###
+
+	### Tier 3 Agent 	#    -9.41 	###
+
+	### Testing1     	#  -123.74 	###
+
+	### TA - Dust II B Anchor 	#  -194.61 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3132.04 	###
+
+	### YEKINDAR     	#  2473.70 	###
+
+	### Mini_Pekka   	#  1972.04 	###
+
+	### Updawg       	#  1582.00 	###
+
+	### TA - Dust II B Anchor 	#  1516.22 	###
+
+	### Testing1     	#  1293.76 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1143.39 	###
+
+	### aiayn        	#   942.50 	###
+
+	### Randombot67  	#   707.26 	###
+
+	### HTandRX's Agent 	#   516.52 	###
+
+	### splendor     	#   273.00 	###
+
+	### clash_royale 	#   231.90 	###
+
+	### jet2holiday  	#   105.03 	###
+
+	### MegaKnight   	#    73.70 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.77 	###
+
+	### qwer         	#  -261.33 	###
+
+	###              	#  -418.31 	###
+
+	### ExaBot       	#  -450.66 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  5124.72 	###
+
+	### ws           	#  3066.52 	###
+
+	### TA - Dust II B Anchor 	#  2799.81 	###
+
+	### aiayn        	#  2155.54 	###
+
+	### qwer         	#  1941.11 	###
+
+	### splendor     	#  1717.97 	###
+
+	### MegaKnight   	#  1243.21 	###
+
+	### jet2holiday  	#  1175.88 	###
+
+	### Mini_Pekka   	#   867.65 	###
+
+	### Updawg       	#   800.93 	###
+
+	### YEKINDAR     	#   776.51 	###
+
+	### ExaBot       	#   568.68 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   553.69 	###
+
+	### clash_royale 	#   339.32 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   311.27 	###
+
+	### Testing1     	#   183.16 	###
+
+	### HTandRX's Agent 	#    57.05 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### Randombot67  	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.96 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  3156.34 	###
+
+	### ws           	#  2724.03 	###
+
+	### Mini_Pekka   	#  2438.73 	###
+
+	### aiayn        	#  1646.66 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1539.98 	###
+
+	### HTandRX's Agent 	#  1301.84 	###
+
+	### clash_royale 	#  1289.26 	###
+
+	### splendor     	#  1068.37 	###
+
+	### ExaBot       	#  1028.01 	###
+
+	### MegaKnight   	#   954.81 	###
+
+	### brawl_stars  	#   889.97 	###
+
+	### YEKINDAR     	#   594.56 	###
+
+	### Testing1     	#   590.37 	###
+
+	### TA - Dust II B Anchor 	#   364.17 	###
+
+	### Randombot67  	#   129.19 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.65 	###
+
+	### jet2holiday  	#   -27.35 	###
+
+	### qwer         	#  -711.81 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Mini_Pekka   	#  3684.81 	###
+
+	### clash_royale 	#  3144.62 	###
+
+	### ExaBot       	#  2936.36 	###
+
+	### splendor     	#  2553.43 	###
+
+	### ws           	#  2478.33 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2068.79 	###
+
+	### aiayn        	#  1371.92 	###
+
+	###              	#  1181.62 	###
+
+	### Updawg       	#   894.83 	###
+
+	### TA - Dust II B Anchor 	#   732.91 	###
+
+	### brawl_stars  	#   132.62 	###
+
+	### YEKINDAR     	#   127.48 	###
+
+	### qwer         	#    32.77 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.06 	###
+
+	### Randombot67  	#    -8.39 	###
+
+	### jet2holiday  	#   -41.09 	###
+
+	### MegaKnight   	#  -382.64 	###
+
+	### Testing1     	#  -720.34 	###
+
+	###########################################
+
+	@@@ WINNER: Mini_Pekka @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### qwer         	#  4702.02 	###
+
+	### aiayn        	#  2583.86 	###
+
+	###              	#  2467.65 	###
+
+	### TA - Dust II B Anchor 	#  2296.51 	###
+
+	### jet2holiday  	#  2041.82 	###
+
+	### clash_royale 	#  1987.97 	###
+
+	### ExaBot       	#  1352.36 	###
+
+	### HTandRX's Agent 	#  1141.99 	###
+
+	### ws           	#  1140.27 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1079.34 	###
+
+	### Updawg       	#   777.28 	###
+
+	### Mini_Pekka   	#   707.05 	###
+
+	### splendor     	#   134.70 	###
+
+	### brawl_stars  	#     7.01 	###
+
+	### Randombot67  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.81 	###
+
+	### YEKINDAR     	#   -74.78 	###
+
+	### MegaKnight   	# -1333.49 	###
+
+	### Testing1     	# -2632.78 	###
+
+	###########################################
+
+	@@@ WINNER: qwer @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  5780.22 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3407.73 	###
+
+	### Mini_Pekka   	#  3215.38 	###
+
+	###              	#  1910.16 	###
+
+	### TA - Dust II B Anchor 	#  1841.67 	###
+
+	### ExaBot       	#  1693.06 	###
+
+	### HTandRX's Agent 	#  1253.78 	###
+
+	### ws           	#  1216.66 	###
+
+	### aiayn        	#  1086.45 	###
+
+	### Randombot67  	#  1076.38 	###
+
+	### YEKINDAR     	#   792.13 	###
+
+	### Testing1     	#   351.85 	###
+
+	### brawl_stars  	#   261.75 	###
+
+	### MegaKnight   	#    28.60 	###
+
+	### jet2holiday  	#    20.22 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### splendor     	#    -2.82 	###
+
+	### Tier 3 Agent 	#    -7.59 	###
+
+	### qwer         	#  -194.25 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  4141.64 	###
+
+	### qwer         	#  3578.63 	###
+
+	### Updawg       	#  3274.84 	###
+
+	### TA - Dust II B Anchor 	#  3144.30 	###
+
+	### clash_royale 	#  1599.72 	###
+
+	### brawl_stars  	#  1586.32 	###
+
+	###              	#  1376.63 	###
+
+	### YEKINDAR     	#  1311.70 	###
+
+	### splendor     	#  1215.58 	###
+
+	### ws           	#  1171.73 	###
+
+	### Randombot67  	#  1144.56 	###
+
+	### HTandRX's Agent 	#   547.80 	###
+
+	### Testing1     	#   263.42 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   216.71 	###
+
+	### ExaBot       	#   186.19 	###
+
+	### Mini_Pekka   	#   163.92 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#    13.60 	###
+
+	### Tier 3 Agent 	#    -4.08 	###
+
+	### jet2holiday  	#  -123.57 	###
+
+	### MegaKnight   	#  -449.60 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ExaBot       	#  3831.35 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3491.24 	###
+
+	### clash_royale 	#  3331.65 	###
+
+	###              	#  3315.43 	###
+
+	### qwer         	#  2686.54 	###
+
+	### Randombot67  	#  1607.58 	###
+
+	### Mini_Pekka   	#  1483.12 	###
+
+	### MegaKnight   	#  1313.81 	###
+
+	### TA - Dust II B Anchor 	#  1181.26 	###
+
+	### Updawg       	#   723.23 	###
+
+	### YEKINDAR     	#   625.26 	###
+
+	### ws           	#   552.83 	###
+
+	### jet2holiday  	#   510.33 	###
+
+	### aiayn        	#   400.08 	###
+
+	### HTandRX's Agent 	#   316.52 	###
+
+	### brawl_stars  	#   229.69 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -1.70 	###
+
+	### Testing1     	#  -437.41 	###
+
+	###########################################
+
+	@@@ WINNER: ExaBot @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  2888.22 	###
+
+	### aiayn        	#  2794.42 	###
+
+	### TA - Dust II B Anchor 	#  2058.78 	###
+
+	###              	#  1192.73 	###
+
+	### HTandRX's Agent 	#  1183.80 	###
+
+	### ws           	#  1183.41 	###
+
+	### Mini_Pekka   	#  1174.88 	###
+
+	### qwer         	#   795.07 	###
+
+	### Updawg       	#   505.71 	###
+
+	### Randombot67  	#   479.83 	###
+
+	### YEKINDAR     	#   397.10 	###
+
+	### MegaKnight   	#   348.47 	###
+
+	### splendor     	#   257.27 	###
+
+	### Testing1     	#   249.41 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   180.04 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   132.70 	###
+
+	### brawl_stars  	#     8.70 	###
+
+	### Tier 3 Agent 	#    -4.32 	###
+
+	### ExaBot       	#  -204.40 	###
+
+	### jet2holiday  	#  -256.94 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent 	#  3127.32 	###
+
+	### ws           	#  2560.52 	###
+
+	###              	#  2349.48 	###
+
+	### Mini_Pekka   	#  2281.15 	###
+
+	### Updawg       	#  2118.18 	###
+
+	### qwer         	#  1885.57 	###
+
+	### aiayn        	#  1659.20 	###
+
+	### clash_royale 	#  1620.98 	###
+
+	### TA - Dust II B Anchor 	#  1136.31 	###
+
+	### Randombot67  	#   763.04 	###
+
+	### Testing1     	#   508.20 	###
+
+	### brawl_stars  	#   476.96 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   413.78 	###
+
+	### YEKINDAR     	#   361.98 	###
+
+	### splendor     	#   345.20 	###
+
+	### ExaBot       	#   232.98 	###
+
+	### jet2holiday  	#    62.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.38 	###
+
+	### MegaKnight   	#  -353.33 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  4475.86 	###
+
+	### clash_royale 	#  3718.43 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#  2484.70 	###
+
+	### qwer         	#  2386.51 	###
+
+	### Mini_Pekka   	#  2279.79 	###
+
+	### jet2holiday  	#  2214.05 	###
+
+	### Randombot67  	#  1948.07 	###
+
+	### Updawg       	#  1700.33 	###
+
+	### TA - Dust II B Anchor 	#  1387.55 	###
+
+	### aiayn        	#  1080.18 	###
+
+	### ws           	#   442.28 	###
+
+	### splendor     	#   357.64 	###
+
+	### brawl_stars  	#   344.90 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   278.37 	###
+
+	### Tier 3 Agent 	#     6.01 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### ExaBot       	#   -10.75 	###
+
+	### HTandRX's Agent 	#   -18.13 	###
+
+	### MegaKnight   	#  -429.11 	###
+
+	### Testing1     	# -1399.72 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Mini_Pekka   	#  4056.15 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3942.02 	###
+
+	### ws           	#  2378.46 	###
+
+	### aiayn        	#  2016.84 	###
+
+	### clash_royale 	#  1956.91 	###
+
+	### Randombot67  	#  1907.66 	###
+
+	###              	#  1535.25 	###
+
+	### TA - Dust II B Anchor 	#  1400.05 	###
+
+	### qwer         	#  1377.62 	###
+
+	### HTandRX's Agent 	#  1003.80 	###
+
+	### splendor     	#   664.54 	###
+
+	### YEKINDAR     	#   452.39 	###
+
+	### MegaKnight   	#   151.03 	###
+
+	### Updawg       	#     0.00 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -9.27 	###
+
+	### ExaBot       	#  -101.65 	###
+
+	### jet2holiday  	#  -515.36 	###
+
+	### Testing1     	# -2041.79 	###
+
+	###########################################
+
+	@@@ WINNER: Mini_Pekka @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### qwer         	#  3759.34 	###
+
+	### ExaBot       	#  3578.79 	###
+
+	### aiayn        	#  3528.27 	###
+
+	###              	#  3284.23 	###
+
+	### ws           	#  3085.92 	###
+
+	### YEKINDAR     	#  2213.21 	###
+
+	### Updawg       	#  2130.73 	###
+
+	### clash_royale 	#  1826.92 	###
+
+	### Mini_Pekka   	#  1756.62 	###
+
+	### HTandRX's Agent 	#  1153.51 	###
+
+	### splendor     	#  1038.29 	###
+
+	### brawl_stars  	#   869.67 	###
+
+	### TA - Dust II B Anchor 	#   671.87 	###
+
+	### jet2holiday  	#   587.72 	###
+
+	### Randombot67  	#   468.72 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#    76.10 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#    -0.02 	###
+
+	### Tier 3 Agent 	#    -3.75 	###
+
+	### MegaKnight   	#    -4.46 	###
+
+	### Testing1     	# -1409.39 	###
+
+	###########################################
+
+	@@@ WINNER: qwer @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Randombot67  	#  3682.35 	###
+
+	### TA - Dust II B Anchor 	#  2454.16 	###
+
+	### Mini_Pekka   	#  2098.81 	###
+
+	### MegaKnight   	#  1776.08 	###
+
+	### HTandRX's Agent 	#  1738.84 	###
+
+	### ws           	#  1394.13 	###
+
+	### aiayn        	#  1342.58 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1184.66 	###
+
+	### qwer         	#  1112.77 	###
+
+	### Updawg       	#  1018.24 	###
+
+	### ExaBot       	#   949.16 	###
+
+	###              	#   297.00 	###
+
+	### clash_royale 	#   273.62 	###
+
+	### brawl_stars  	#   170.42 	###
+
+	### Tier 3 Agent 	#   151.85 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### splendor     	#    -0.84 	###
+
+	### jet2holiday  	#  -177.58 	###
+
+	### Testing1     	#  -237.16 	###
+
+	###########################################
+
+	@@@ WINNER: Randombot67 @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### jet2holiday  	#  3341.62 	###
+
+	### clash_royale 	#  3208.84 	###
+
+	### qwer         	#  2714.79 	###
+
+	### YEKINDAR     	#  2580.97 	###
+
+	### Randombot67  	#  2289.59 	###
+
+	### HTandRX's Agent 	#  2103.65 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1952.14 	###
+
+	### TA - Dust II B Anchor 	#  1850.16 	###
+
+	###              	#  1250.11 	###
+
+	### ws           	#  1009.15 	###
+
+	### ExaBot       	#   708.32 	###
+
+	### aiayn        	#   610.38 	###
+
+	### splendor     	#   194.55 	###
+
+	### Mini_Pekka   	#   183.75 	###
+
+	### brawl_stars  	#    80.85 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.99 	###
+
+	### MegaKnight   	#   -89.35 	###
+
+	### Testing1     	#  -359.02 	###
+
+	###########################################
+
+	@@@ WINNER: jet2holiday @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  6440.60 	###
+
+	### Randombot67  	#  3724.73 	###
+
+	### qwer         	#  3405.82 	###
+
+	### ExaBot       	#  2363.30 	###
+
+	### Mini_Pekka   	#  2191.46 	###
+
+	### clash_royale 	#  1983.81 	###
+
+	### HTandRX's Agent 	#  1929.18 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   640.70 	###
+
+	### TA - Dust II B Anchor 	#   436.41 	###
+
+	### Testing1     	#   421.60 	###
+
+	###              	#   336.40 	###
+
+	### ws           	#   205.40 	###
+
+	### splendor     	#   144.18 	###
+
+	### jet2holiday  	#   103.97 	###
+
+	### YEKINDAR     	#    25.50 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### brawl_stars  	#    -0.19 	###
+
+	### Tier 3 Agent 	#    -3.56 	###
+
+	### MegaKnight   	#  -383.44 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3493.86 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3431.80 	###
+
+	### qwer         	#  2766.42 	###
+
+	### aiayn        	#  2326.04 	###
+
+	### HTandRX's Agent 	#  1845.13 	###
+
+	### TA - Dust II B Anchor 	#  1729.67 	###
+
+	### Mini_Pekka   	#  1645.44 	###
+
+	### brawl_stars  	#  1557.29 	###
+
+	### Testing1     	#  1292.17 	###
+
+	### clash_royale 	#  1276.42 	###
+
+	### Tier 3 Agent 	#  1259.34 	###
+
+	### MegaKnight   	#   398.58 	###
+
+	### YEKINDAR     	#   280.27 	###
+
+	### jet2holiday  	#   233.13 	###
+
+	### ExaBot       	#    35.46 	###
+
+	###              	#    30.09 	###
+
+	### Updawg       	#     0.00 	###
+
+	### Randombot67  	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Updawg       	#  4711.99 	###
+
+	###              	#  4496.84 	###
+
+	### aiayn        	#  2700.23 	###
+
+	### clash_royale 	#  2700.02 	###
+
+	### jet2holiday  	#  2650.80 	###
+
+	### ws           	#  2172.04 	###
+
+	### qwer         	#  1940.05 	###
+
+	### TA - Dust II B Anchor 	#  1841.91 	###
+
+	### YEKINDAR     	#  1821.15 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1753.56 	###
+
+	### Randombot67  	#  1404.42 	###
+
+	### HTandRX's Agent 	#  1359.19 	###
+
+	### Mini_Pekka   	#  1002.79 	###
+
+	### Testing1     	#   588.77 	###
+
+	### ExaBot       	#   311.40 	###
+
+	### brawl_stars  	#    80.83 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -7.48 	###
+
+	### splendor     	#   -23.33 	###
+
+	### MegaKnight   	#  -719.36 	###
+
+	###########################################
+
+	@@@ WINNER: Updawg @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  4137.17 	###
+
+	### Mini_Pekka   	#  4000.54 	###
+
+	### TA - Dust II B Anchor 	#  3382.33 	###
+
+	### aiayn        	#  2688.98 	###
+
+	### brawl_stars  	#  2463.05 	###
+
+	### clash_royale 	#  2365.51 	###
+
+	### HTandRX's Agent 	#  2294.77 	###
+
+	### jet2holiday  	#  2012.89 	###
+
+	### ExaBot       	#  1955.36 	###
+
+	### splendor     	#  1715.91 	###
+
+	### Testing1     	#  1481.19 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1107.53 	###
+
+	### Updawg       	#   959.67 	###
+
+	### YEKINDAR     	#   820.43 	###
+
+	### Randombot67  	#   668.02 	###
+
+	###              	#   181.83 	###
+
+	### qwer         	#    17.01 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.07 	###
+
+	### MegaKnight   	#  -136.96 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Randombot67  	#  2224.82 	###
+
+	### TA - Dust II B Anchor 	#  2049.67 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2007.22 	###
+
+	### YEKINDAR     	#  1990.47 	###
+
+	###              	#  1805.36 	###
+
+	### clash_royale 	#  1788.18 	###
+
+	### HTandRX's Agent 	#  1516.68 	###
+
+	### Mini_Pekka   	#  1351.15 	###
+
+	### ws           	#  1347.99 	###
+
+	### Testing1     	#   832.79 	###
+
+	### qwer         	#   758.86 	###
+
+	### brawl_stars  	#   757.53 	###
+
+	### aiayn        	#   474.09 	###
+
+	### ExaBot       	#   219.39 	###
+
+	### splendor     	#   163.63 	###
+
+	### jet2holiday  	#    92.97 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Updawg       	#    -0.12 	###
+
+	### Tier 3 Agent 	#    -5.81 	###
+
+	### MegaKnight   	#  -387.47 	###
+
+	###########################################
+
+	@@@ WINNER: Randombot67 @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  5513.07 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3268.03 	###
+
+	### jet2holiday  	#  3034.30 	###
+
+	### YEKINDAR     	#  3017.84 	###
+
+	### clash_royale 	#  2499.54 	###
+
+	### ws           	#  2195.92 	###
+
+	### qwer         	#  2088.47 	###
+
+	### ExaBot       	#  1929.27 	###
+
+	### Randombot67  	#  1662.20 	###
+
+	### TA - Dust II B Anchor 	#  1436.59 	###
+
+	###              	#  1358.25 	###
+
+	### splendor     	#   137.28 	###
+
+	### Updawg       	#    89.62 	###
+
+	### Testing1     	#    60.17 	###
+
+	### brawl_stars  	#    59.96 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### Mini_Pekka   	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.15 	###
+
+	### MegaKnight   	#  -440.67 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### qwer         	#  4731.33 	###
+
+	### aiayn        	#  4061.57 	###
+
+	### Mini_Pekka   	#  2478.31 	###
+
+	### ws           	#  2230.25 	###
+
+	### ExaBot       	#  2062.02 	###
+
+	###              	#  2033.99 	###
+
+	### TA - Dust II B Anchor 	#  1626.23 	###
+
+	### splendor     	#  1568.01 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#  1432.14 	###
+
+	### Updawg       	#  1276.14 	###
+
+	### MegaKnight   	#  1171.12 	###
+
+	### clash_royale 	#   650.80 	###
+
+	### brawl_stars  	#   617.06 	###
+
+	### Randombot67  	#   367.34 	###
+
+	### YEKINDAR     	#   172.61 	###
+
+	### Tier 3 Agent 	#   107.71 	###
+
+	### HTandRX's Agent 	#    -5.52 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   -98.74 	###
+
+	### jet2holiday  	#  -290.66 	###
+
+	### Testing1     	#  -513.74 	###
+
+	###########################################
+
+	@@@ WINNER: qwer @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Randombot67  	#  3073.14 	###
+
+	### YEKINDAR     	#  3034.59 	###
+
+	### Mini_Pekka   	#  2685.33 	###
+
+	### ws           	#  2440.63 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1512.63 	###
+
+	### HTandRX's Agent 	#  1428.11 	###
+
+	### Updawg       	#  1407.47 	###
+
+	### TA - Dust II B Anchor 	#  1069.67 	###
+
+	### qwer         	#  1037.35 	###
+
+	### ExaBot       	#  1005.77 	###
+
+	###              	#   977.11 	###
+
+	### aiayn        	#   734.16 	###
+
+	### clash_royale 	#   442.18 	###
+
+	### jet2holiday  	#   208.81 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   187.69 	###
+
+	### splendor     	#   138.91 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.77 	###
+
+	### Testing1     	#  -361.78 	###
+
+	### MegaKnight   	#  -511.40 	###
+
+	###########################################
+
+	@@@ WINNER: Randombot67 @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  5602.21 	###
+
+	### ws           	#  4042.96 	###
+
+	### clash_royale 	#  2347.88 	###
+
+	### ExaBot       	#  2232.83 	###
+
+	###              	#  1950.28 	###
+
+	### MegaKnight   	#  1685.82 	###
+
+	### TA - Dust II B Anchor 	#  1521.71 	###
+
+	### Mini_Pekka   	#  1501.53 	###
+
+	### Randombot67  	#  1155.88 	###
+
+	### splendor     	#  1027.79 	###
+
+	### HTandRX's Agent 	#   817.29 	###
+
+	### jet2holiday  	#   640.85 	###
+
+	### qwer         	#   543.63 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   516.71 	###
+
+	### Updawg       	#   253.69 	###
+
+	### brawl_stars  	#   120.34 	###
+
+	### aiayn        	#    45.77 	###
+
+	### Tier 3 Agent 	#    -2.76 	###
+
+	### YEKINDAR     	#  -319.27 	###
+
+	### Testing1     	#  -573.45 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### MegaKnight   	#  3028.76 	###
+
+	### clash_royale 	#  2884.84 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2554.61 	###
+
+	### YEKINDAR     	#  2329.58 	###
+
+	### aiayn        	#  2246.03 	###
+
+	### ws           	#  2218.40 	###
+
+	### Randombot67  	#  1780.11 	###
+
+	### splendor     	#  1586.57 	###
+
+	### Mini_Pekka   	#  1530.38 	###
+
+	### qwer         	#  1164.93 	###
+
+	###              	#  1130.32 	###
+
+	### HTandRX's Agent 	#   944.43 	###
+
+	### jet2holiday  	#   704.97 	###
+
+	### Updawg       	#   146.70 	###
+
+	### TA - Dust II B Anchor 	#    93.69 	###
+
+	### brawl_stars  	#    65.15 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -7.84 	###
+
+	### ExaBot       	#  -230.20 	###
+
+	### Testing1     	# -1390.51 	###
+
+	###########################################
+
+	@@@ WINNER: MegaKnight @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  3325.14 	###
+
+	### ws           	#  3225.21 	###
+
+	###              	#  3075.39 	###
+
+	### qwer         	#  2867.23 	###
+
+	### HTandRX's Agent 	#  2625.88 	###
+
+	### splendor     	#  2059.20 	###
+
+	### aiayn        	#  2035.44 	###
+
+	### Updawg       	#  1904.45 	###
+
+	### MegaKnight   	#   984.10 	###
+
+	### Randombot67  	#   767.80 	###
+
+	### TA - Dust II B Anchor 	#   696.55 	###
+
+	### ExaBot       	#   637.15 	###
+
+	### YEKINDAR     	#   367.42 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   322.90 	###
+
+	### Testing1     	#   275.18 	###
+
+	### brawl_stars  	#   257.65 	###
+
+	### Mini_Pekka   	#    97.42 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#   -14.34 	###
+
+	### jet2holiday  	#  -507.85 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  4416.35 	###
+
+	### ws           	#  4192.27 	###
+
+	### Randombot67  	#  3254.94 	###
+
+	### HTandRX's Agent 	#  2039.38 	###
+
+	###              	#  1801.96 	###
+
+	### TA - Dust II B Anchor 	#  1463.46 	###
+
+	### aiayn        	#  1423.18 	###
+
+	### MegaKnight   	#  1276.79 	###
+
+	### Testing1     	#  1111.47 	###
+
+	### Updawg       	#   827.40 	###
+
+	### Mini_Pekka   	#   784.22 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   592.23 	###
+
+	### YEKINDAR     	#   219.31 	###
+
+	### ExaBot       	#   170.48 	###
+
+	### brawl_stars  	#   167.74 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.01 	###
+
+	### jet2holiday  	#   -16.35 	###
+
+	### qwer         	#   -62.67 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Mini_Pekka   	#  4355.65 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3360.93 	###
+
+	### qwer         	#  2646.04 	###
+
+	### Randombot67  	#  2167.08 	###
+
+	### brawl_stars  	#  1985.63 	###
+
+	###              	#  1816.33 	###
+
+	### clash_royale 	#  1737.59 	###
+
+	### Updawg       	#  1654.49 	###
+
+	### TA - Dust II B Anchor 	#  1109.81 	###
+
+	### ws           	#   929.81 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   890.22 	###
+
+	### Testing1     	#   778.76 	###
+
+	### aiayn        	#   427.01 	###
+
+	### YEKINDAR     	#   281.57 	###
+
+	### jet2holiday  	#   173.94 	###
+
+	### splendor     	#   120.43 	###
+
+	### ExaBot       	#    75.96 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.64 	###
+
+	### MegaKnight   	#  -273.04 	###
+
+	###########################################
+
+	@@@ WINNER: Mini_Pekka @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### qwer         	#  2637.62 	###
+
+	### Mini_Pekka   	#  2338.97 	###
+
+	### TA - Dust II B Anchor 	#  2298.16 	###
+
+	### HTandRX's Agent 	#  2012.63 	###
+
+	### splendor     	#  2009.51 	###
+
+	### aiayn        	#  2004.89 	###
+
+	###              	#  1990.84 	###
+
+	### Randombot67  	#  1947.21 	###
+
+	### ExaBot       	#  1202.42 	###
+
+	### ws           	#   642.50 	###
+
+	### clash_royale 	#   406.66 	###
+
+	### YEKINDAR     	#   384.96 	###
+
+	### MegaKnight   	#   178.86 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.12 	###
+
+	### Updawg       	#   -49.75 	###
+
+	### brawl_stars  	#   -54.74 	###
+
+	### jet2holiday  	#  -134.63 	###
+
+	### Testing1     	#  -149.13 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  -306.29 	###
+
+	###########################################
+
+	@@@ WINNER: qwer @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### TA - Dust II B Anchor 	#  5483.08 	###
+
+	### aiayn        	#  2632.06 	###
+
+	### YEKINDAR     	#  2200.41 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1958.89 	###
+
+	### splendor     	#  1904.92 	###
+
+	### clash_royale 	#  1877.26 	###
+
+	###              	#  1824.26 	###
+
+	### ws           	#  1819.88 	###
+
+	### ExaBot       	#  1653.70 	###
+
+	### Updawg       	#  1158.53 	###
+
+	### MegaKnight   	#  1117.67 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   886.44 	###
+
+	### qwer         	#   561.77 	###
+
+	### Randombot67  	#   392.64 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### Mini_Pekka   	#     0.00 	###
+
+	### HTandRX's Agent 	#    -6.06 	###
+
+	### Tier 3 Agent 	#   -11.05 	###
+
+	### jet2holiday  	#   -28.06 	###
+
+	### Testing1     	#  -257.19 	###
+
+	###########################################
+
+	@@@ WINNER: TA - Dust II B Anchor @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ExaBot       	#  5030.32 	###
+
+	### aiayn        	#  3672.08 	###
+
+	### qwer         	#  3297.23 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2477.42 	###
+
+	### YEKINDAR     	#  1747.05 	###
+
+	### MegaKnight   	#  1404.44 	###
+
+	### ws           	#   901.10 	###
+
+	### Updawg       	#   822.29 	###
+
+	### clash_royale 	#   666.88 	###
+
+	### HTandRX's Agent 	#   610.32 	###
+
+	### splendor     	#   586.30 	###
+
+	### brawl_stars  	#   512.01 	###
+
+	### Testing1     	#   469.55 	###
+
+	### TA - Dust II B Anchor 	#   377.98 	###
+
+	### Mini_Pekka   	#    98.23 	###
+
+	### jet2holiday  	#    92.48 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.99 	###
+
+	### Randombot67  	#    -7.55 	###
+
+	###              	#  -490.74 	###
+
+	###########################################
+
+	@@@ WINNER: ExaBot @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  4911.54 	###
+
+	### splendor     	#  3491.31 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2916.83 	###
+
+	### Mini_Pekka   	#  2477.27 	###
+
+	### MegaKnight   	#  2330.90 	###
+
+	### ExaBot       	#  2325.94 	###
+
+	### clash_royale 	#  2152.04 	###
+
+	### qwer         	#  1903.47 	###
+
+	### aiayn        	#  1744.73 	###
+
+	### TA - Dust II B Anchor 	#  1251.18 	###
+
+	### HTandRX's Agent 	#  1128.35 	###
+
+	### jet2holiday  	#  1016.30 	###
+
+	### Randombot67  	#   787.38 	###
+
+	### Testing1     	#    89.38 	###
+
+	### Updawg       	#    55.35 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -7.44 	###
+
+	###              	#   -22.06 	###
+
+	### YEKINDAR     	#   -23.61 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  4712.61 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  4051.72 	###
+
+	### clash_royale 	#  2256.01 	###
+
+	### TA - Dust II B Anchor 	#  1617.15 	###
+
+	### aiayn        	#  1499.77 	###
+
+	### Updawg       	#  1415.58 	###
+
+	### qwer         	#  1048.44 	###
+
+	### Testing1     	#   973.73 	###
+
+	### YEKINDAR     	#   758.67 	###
+
+	### ws           	#   552.97 	###
+
+	### Randombot67  	#   372.08 	###
+
+	### splendor     	#   237.29 	###
+
+	### ExaBot       	#    51.15 	###
+
+	### brawl_stars  	#    29.89 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.80 	###
+
+	### jet2holiday  	#  -129.24 	###
+
+	### Mini_Pekka   	#  -283.53 	###
+
+	### MegaKnight   	# -1042.32 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  3493.07 	###
+
+	### HTandRX's Agent 	#  2811.20 	###
+
+	### aiayn        	#  1966.19 	###
+
+	### Mini_Pekka   	#  1934.66 	###
+
+	### brawl_stars  	#  1541.56 	###
+
+	### clash_royale 	#  1451.22 	###
+
+	### Randombot67  	#  1409.90 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1298.74 	###
+
+	### splendor     	#   944.42 	###
+
+	### MegaKnight   	#   796.37 	###
+
+	### qwer         	#   683.14 	###
+
+	### Testing1     	#   641.58 	###
+
+	### ws           	#   503.31 	###
+
+	### TA - Dust II B Anchor 	#   499.74 	###
+
+	### Updawg       	#   170.19 	###
+
+	### jet2holiday  	#   160.34 	###
+
+	### YEKINDAR     	#   155.56 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.92 	###
+
+	### ExaBot       	#   -49.90 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Mini_Pekka   	#  4605.83 	###
+
+	### jet2holiday  	#  2449.82 	###
+
+	### clash_royale 	#  2148.70 	###
+
+	### ws           	#  2124.53 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1798.85 	###
+
+	### TA - Dust II B Anchor 	#  1678.04 	###
+
+	###              	#  1120.02 	###
+
+	### qwer         	#  1082.24 	###
+
+	### aiayn        	#   901.46 	###
+
+	### brawl_stars  	#   883.87 	###
+
+	### Randombot67  	#   879.92 	###
+
+	### Testing1     	#   614.18 	###
+
+	### splendor     	#     7.42 	###
+
+	### Updawg       	#     5.39 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -1.58 	###
+
+	### MegaKnight   	#  -270.84 	###
+
+	### ExaBot       	#  -530.91 	###
+
+	###########################################
+
+	@@@ WINNER: Mini_Pekka @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Updawg       	#  2774.09 	###
+
+	### Randombot67  	#  2604.94 	###
+
+	### Mini_Pekka   	#  2349.22 	###
+
+	### qwer         	#  1977.71 	###
+
+	### aiayn        	#  1874.89 	###
+
+	### ExaBot       	#  1829.15 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1653.68 	###
+
+	### HTandRX's Agent 	#  1632.97 	###
+
+	### ws           	#  1620.65 	###
+
+	### brawl_stars  	#  1249.44 	###
+
+	### clash_royale 	#  1235.71 	###
+
+	### splendor     	#   806.49 	###
+
+	### TA - Dust II B Anchor 	#   671.97 	###
+
+	### Testing1     	#    66.80 	###
+
+	### YEKINDAR     	#    40.68 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.33 	###
+
+	### MegaKnight   	#  -234.78 	###
+
+	###              	#  -375.77 	###
+
+	### jet2holiday  	#  -711.95 	###
+
+	###########################################
+
+	@@@ WINNER: Updawg @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3509.85 	###
+
+	### YEKINDAR     	#  3338.76 	###
+
+	### TA - Dust II B Anchor 	#  3141.98 	###
+
+	### clash_royale 	#  2542.28 	###
+
+	### splendor     	#  2059.63 	###
+
+	### Mini_Pekka   	#  2003.63 	###
+
+	### aiayn        	#  1826.74 	###
+
+	### Testing1     	#  1657.36 	###
+
+	###              	#  1406.18 	###
+
+	### Randombot67  	#   988.96 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   900.47 	###
+
+	### jet2holiday  	#   792.88 	###
+
+	### Updawg       	#   641.94 	###
+
+	### HTandRX's Agent 	#   528.08 	###
+
+	### qwer         	#   232.17 	###
+
+	### MegaKnight   	#    95.76 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.56 	###
+
+	### ExaBot       	#  -508.49 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ExaBot       	#  3614.93 	###
+
+	### ws           	#  2950.85 	###
+
+	### clash_royale 	#  2929.38 	###
+
+	### HTandRX's Agent 	#  2745.17 	###
+
+	### Mini_Pekka   	#  2152.43 	###
+
+	###              	#  1786.50 	###
+
+	### aiayn        	#  1684.62 	###
+
+	### splendor     	#  1325.98 	###
+
+	### MegaKnight   	#   917.75 	###
+
+	### Testing1     	#   801.65 	###
+
+	### Updawg       	#   755.77 	###
+
+	### qwer         	#   744.74 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   409.12 	###
+
+	### TA - Dust II B Anchor 	#   217.71 	###
+
+	### YEKINDAR     	#   159.34 	###
+
+	### Randombot67  	#   136.54 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -7.15 	###
+
+	### jet2holiday  	#  -611.30 	###
+
+	###########################################
+
+	@@@ WINNER: ExaBot @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3678.71 	###
+
+	### YEKINDAR     	#  2918.18 	###
+
+	### ExaBot       	#  2326.61 	###
+
+	### qwer         	#  2210.15 	###
+
+	### Randombot67  	#  1965.77 	###
+
+	### Updawg       	#  1922.12 	###
+
+	### Testing1     	#  1598.28 	###
+
+	### Mini_Pekka   	#  1535.71 	###
+
+	###              	#  1211.69 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1176.53 	###
+
+	### clash_royale 	#  1081.45 	###
+
+	### splendor     	#   955.71 	###
+
+	### HTandRX's Agent 	#   799.67 	###
+
+	### MegaKnight   	#   777.18 	###
+
+	### TA - Dust II B Anchor 	#   308.00 	###
+
+	### aiayn        	#   120.43 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.01 	###
+
+	### jet2holiday  	#   -28.10 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  4241.06 	###
+
+	### Testing1     	#  2778.57 	###
+
+	### splendor     	#  2739.20 	###
+
+	### clash_royale 	#  2730.98 	###
+
+	### Randombot67  	#  1890.22 	###
+
+	### HTandRX's Agent 	#  1875.13 	###
+
+	### qwer         	#  1863.06 	###
+
+	### MegaKnight   	#  1738.62 	###
+
+	### aiayn        	#  1544.30 	###
+
+	### Updawg       	#  1334.09 	###
+
+	### YEKINDAR     	#  1282.34 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#  1180.88 	###
+
+	### Mini_Pekka   	#   951.46 	###
+
+	### TA - Dust II B Anchor 	#   898.53 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   634.13 	###
+
+	###              	#   454.30 	###
+
+	### ExaBot       	#   347.49 	###
+
+	### brawl_stars  	#   233.18 	###
+
+	### Tier 3 Agent 	#    -1.79 	###
+
+	### jet2holiday  	#    -6.60 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### brawl_stars  	#  3837.02 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3402.97 	###
+
+	### TA - Dust II B Anchor 	#  3225.21 	###
+
+	### clash_royale 	#  2186.54 	###
+
+	### Testing1     	#  1597.29 	###
+
+	### HTandRX's Agent 	#  1536.20 	###
+
+	###              	#  1442.30 	###
+
+	### qwer         	#  1275.93 	###
+
+	### Mini_Pekka   	#   989.87 	###
+
+	### jet2holiday  	#   901.57 	###
+
+	### ws           	#   552.76 	###
+
+	### splendor     	#   297.74 	###
+
+	### aiayn        	#   206.82 	###
+
+	### Randombot67  	#   192.35 	###
+
+	### ExaBot       	#   184.61 	###
+
+	### MegaKnight   	#    60.70 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.27 	###
+
+	###########################################
+
+	@@@ WINNER: brawl_stars @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  4766.26 	###
+
+	### splendor     	#  4248.09 	###
+
+	### ws           	#  3398.41 	###
+
+	### Updawg       	#  2806.34 	###
+
+	### clash_royale 	#  2751.18 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2032.25 	###
+
+	### MegaKnight   	#  1924.21 	###
+
+	### Randombot67  	#   814.89 	###
+
+	### Mini_Pekka   	#   677.66 	###
+
+	### ExaBot       	#   619.22 	###
+
+	### TA - Dust II B Anchor 	#   557.20 	###
+
+	### aiayn        	#   491.80 	###
+
+	### jet2holiday  	#   338.26 	###
+
+	### YEKINDAR     	#   321.18 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     1.57 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -5.34 	###
+
+	### Testing1     	#    -8.64 	###
+
+	### qwer         	#  -360.33 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	###              	#  3503.22 	###
+
+	### YEKINDAR     	#  2932.05 	###
+
+	### TA - Dust II B Anchor 	#  2243.28 	###
+
+	### qwer         	#  2065.09 	###
+
+	### Mini_Pekka   	#  1184.72 	###
+
+	### Randombot67  	#  1152.83 	###
+
+	### HTandRX's Agent 	#  1131.55 	###
+
+	### aiayn        	#  1068.04 	###
+
+	### Updawg       	#  1034.10 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   748.57 	###
+
+	### clash_royale 	#   742.67 	###
+
+	### splendor     	#   470.49 	###
+
+	### Testing1     	#   267.62 	###
+
+	### brawl_stars  	#   178.00 	###
+
+	### jet2holiday  	#    65.30 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#   -13.27 	###
+
+	### ExaBot       	#  -158.00 	###
+
+	### ws           	#  -956.68 	###
+
+	### MegaKnight   	# -1368.60 	###
+
+	###########################################
+
+	@@@ WINNER:   @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### TA - Dust II B Anchor 	#  3374.62 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2376.45 	###
+
+	### aiayn        	#  2023.81 	###
+
+	### clash_royale 	#  1948.31 	###
+
+	### Testing1     	#  1692.33 	###
+
+	### ws           	#  1499.11 	###
+
+	### HTandRX's Agent 	#  1496.50 	###
+
+	### qwer         	#  1191.70 	###
+
+	### splendor     	#  1029.07 	###
+
+	### Randombot67  	#   934.71 	###
+
+	### brawl_stars  	#   463.85 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.23 	###
+
+	### jet2holiday  	#   -19.81 	###
+
+	### Mini_Pekka   	#   -50.03 	###
+
+	### ExaBot       	#   -74.73 	###
+
+	###              	#  -100.50 	###
+
+	### MegaKnight   	#  -679.29 	###
+
+	###########################################
+
+	@@@ WINNER: TA - Dust II B Anchor @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  5443.61 	###
+
+	###              	#  4123.58 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3567.70 	###
+
+	### Randombot67  	#  3053.71 	###
+
+	### ws           	#  1945.70 	###
+
+	### clash_royale 	#  1750.37 	###
+
+	### qwer         	#  1743.76 	###
+
+	### splendor     	#  1530.07 	###
+
+	### Mini_Pekka   	#   818.60 	###
+
+	### jet2holiday  	#   606.62 	###
+
+	### brawl_stars  	#   431.11 	###
+
+	### TA - Dust II B Anchor 	#   406.26 	###
+
+	### Testing1     	#   317.71 	###
+
+	### YEKINDAR     	#    78.47 	###
+
+	### HTandRX's Agent 	#    63.31 	###
+
+	### MegaKnight   	#    33.79 	###
+
+	### ExaBot       	#    22.25 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.12 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  5565.38 	###
+
+	### YEKINDAR     	#  5481.34 	###
+
+	### aiayn        	#  2530.03 	###
+
+	### Testing1     	#  2152.04 	###
+
+	### MegaKnight   	#  2065.26 	###
+
+	### qwer         	#  1994.60 	###
+
+	### HTandRX's Agent 	#  1908.46 	###
+
+	### TA - Dust II B Anchor 	#  1905.42 	###
+
+	###              	#  1800.61 	###
+
+	### ExaBot       	#  1602.21 	###
+
+	### Mini_Pekka   	#  1370.35 	###
+
+	### Randombot67  	#   975.59 	###
+
+	### ws           	#   604.62 	###
+
+	### brawl_stars  	#    78.73 	###
+
+	### clash_royale 	#    56.14 	###
+
+	### Updawg       	#     8.89 	###
+
+	### jet2holiday  	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.25 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  3926.81 	###
+
+	### aiayn        	#  2438.69 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  2253.06 	###
+
+	### HTandRX's Agent 	#  1898.69 	###
+
+	### TA - Dust II B Anchor 	#  1687.76 	###
+
+	### ExaBot       	#  1388.93 	###
+
+	### YEKINDAR     	#  1001.95 	###
+
+	### clash_royale 	#   858.71 	###
+
+	### brawl_stars  	#   803.34 	###
+
+	### Mini_Pekka   	#   519.26 	###
+
+	### splendor     	#   429.91 	###
+
+	### Testing1     	#   388.34 	###
+
+	### Randombot67  	#   308.29 	###
+
+	### qwer         	#   307.43 	###
+
+	### MegaKnight   	#   302.74 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.07 	###
+
+	###              	#  -153.80 	###
+
+	### jet2holiday  	#  -287.70 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### YEKINDAR     	#  3271.99 	###
+
+	###              	#  3017.78 	###
+
+	### qwer         	#  2397.06 	###
+
+	### Randombot67  	#  2285.57 	###
+
+	### ws           	#  1514.89 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1480.46 	###
+
+	### TA - Dust II B Anchor 	#  1456.87 	###
+
+	### jet2holiday  	#  1218.26 	###
+
+	### aiayn        	#  1217.41 	###
+
+	### ExaBot       	#  1115.60 	###
+
+	### Updawg       	#  1109.43 	###
+
+	### Testing1     	#   905.58 	###
+
+	### HTandRX's Agent 	#   718.85 	###
+
+	### brawl_stars  	#   709.53 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   181.95 	###
+
+	### MegaKnight   	#    65.41 	###
+
+	### Mini_Pekka   	#     0.00 	###
+
+	### splendor     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -3.63 	###
+
+	### clash_royale 	#    -8.72 	###
+
+	###########################################
+
+	@@@ WINNER: YEKINDAR @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### clash_royale 	#  3164.05 	###
+
+	### TA - Dust II B Anchor 	#  2781.11 	###
+
+	### aiayn        	#  2522.89 	###
+
+	### jet2holiday  	#  2440.55 	###
+
+	### YEKINDAR     	#  1987.30 	###
+
+	### Updawg       	#  1979.86 	###
+
+	### ws           	#  1393.57 	###
+
+	### Randombot67  	#  1300.00 	###
+
+	###              	#  1129.09 	###
+
+	### MegaKnight   	#  1090.10 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1053.21 	###
+
+	### qwer         	#   569.32 	###
+
+	### splendor     	#    29.03 	###
+
+	### HTandRX's Agent 	#     3.78 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -2.11 	###
+
+	### ExaBot       	#  -104.37 	###
+
+	### Mini_Pekka   	#  -132.02 	###
+
+	### Testing1     	#  -232.48 	###
+
+	###########################################
+
+	@@@ WINNER: clash_royale @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  5957.29 	###
+
+	### clash_royale 	#  4070.31 	###
+
+	### Mini_Pekka   	#  3132.86 	###
+
+	### Updawg       	#  2869.88 	###
+
+	### TA - Dust II B Anchor 	#  1803.29 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1744.23 	###
+
+	### brawl_stars  	#  1069.78 	###
+
+	### YEKINDAR     	#   997.79 	###
+
+	### splendor     	#   867.87 	###
+
+	###              	#   858.18 	###
+
+	### HTandRX's Agent 	#   600.11 	###
+
+	### ExaBot       	#   385.34 	###
+
+	### MegaKnight   	#   267.30 	###
+
+	### qwer         	#   164.39 	###
+
+	### aiayn        	#   112.88 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -6.89 	###
+
+	### Randombot67  	#   -37.25 	###
+
+	### jet2holiday  	#  -181.74 	###
+
+	### Testing1     	#  -360.06 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3573.22 	###
+
+	### TA - Dust II B Anchor 	#  3268.18 	###
+
+	### clash_royale 	#  2933.32 	###
+
+	### aiayn        	#  2468.50 	###
+
+	### ExaBot       	#  2378.67 	###
+
+	### ws           	#  2126.71 	###
+
+	### MegaKnight   	#  1656.77 	###
+
+	###              	#  1518.84 	###
+
+	### splendor     	#   784.74 	###
+
+	### brawl_stars  	#   516.05 	###
+
+	### qwer         	#   507.01 	###
+
+	### Mini_Pekka   	#   275.01 	###
+
+	### Randombot67  	#    91.95 	###
+
+	### YEKINDAR     	#    10.71 	###
+
+	### jet2holiday  	#     0.00 	###
+
+	### HTandRX's Agent 	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Updawg       	#    -1.56 	###
+
+	### Tier 3 Agent 	#    -6.71 	###
+
+	### Testing1     	# -1927.48 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### aiayn        	#  3794.47 	###
+
+	### HTandRX's Agent 	#  3647.03 	###
+
+	### qwer         	#  2818.78 	###
+
+	###              	#  2766.42 	###
+
+	### YEKINDAR     	#  2160.90 	###
+
+	### ExaBot       	#  1980.20 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1969.04 	###
+
+	### Randombot67  	#  1438.05 	###
+
+	### Mini_Pekka   	#  1314.93 	###
+
+	### Updawg       	#  1057.95 	###
+
+	### ws           	#   863.12 	###
+
+	### brawl_stars  	#   801.31 	###
+
+	### splendor     	#   729.32 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#   708.50 	###
+
+	### jet2holiday  	#   548.46 	###
+
+	### TA - Dust II B Anchor 	#   407.93 	###
+
+	### clash_royale 	#   283.10 	###
+
+	### MegaKnight   	#   104.13 	###
+
+	### Tier 3 Agent 	#     1.26 	###
+
+	### Testing1     	#  -947.41 	###
+
+	###########################################
+
+	@@@ WINNER: aiayn @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### Mini_Pekka   	#  3232.37 	###
+
+	### YEKINDAR     	#  2987.23 	###
+
+	###              	#  1990.11 	###
+
+	### HTandRX's Agent 	#  1725.83 	###
+
+	### qwer         	#  1533.22 	###
+
+	### clash_royale 	#  1435.57 	###
+
+	### TA - Dust II B Anchor 	#  1329.06 	###
+
+	### aiayn        	#  1270.30 	###
+
+	### ws           	#  1065.19 	###
+
+	### splendor     	#   939.61 	###
+
+	### Randombot67  	#   531.50 	###
+
+	### Testing1     	#   466.61 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   409.77 	###
+
+	### brawl_stars  	#   355.97 	###
+
+	### Updawg       	#   273.88 	###
+
+	### jet2holiday  	#    14.43 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -4.40 	###
+
+	### ExaBot       	#  -283.73 	###
+
+	### MegaKnight   	#  -333.21 	###
+
+	###########################################
+
+	@@@ WINNER: Mini_Pekka @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### TA - Dust II B Anchor 	#  3794.47 	###
+
+	### aiayn        	#  2986.10 	###
+
+	### ws           	#  2759.25 	###
+
+	### Updawg       	#  2556.59 	###
+
+	### splendor     	#  2304.08 	###
+
+	### HTandRX's Agent 	#  1816.47 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#  1396.23 	###
+
+	### Randombot67  	#  1008.92 	###
+
+	### clash_royale 	#   896.00 	###
+
+	### Mini_Pekka   	#   382.14 	###
+
+	### qwer         	#   235.37 	###
+
+	### ExaBot       	#   166.65 	###
+
+	### YEKINDAR     	#   142.21 	###
+
+	### brawl_stars  	#   110.96 	###
+
+	### MegaKnight   	#     6.67 	###
+
+	### jet2holiday  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -0.36 	###
+
+	###              	#  -161.53 	###
+
+	### Testing1     	#  -503.84 	###
+
+	###########################################
+
+	@@@ WINNER: TA - Dust II B Anchor @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### ws           	#  5482.69 	###
+
+	### aiayn        	#  3482.63 	###
+
+	###              	#  3148.92 	###
+
+	### Randombot67  	#  2983.92 	###
+
+	### clash_royale 	#  2006.86 	###
+
+	### Updawg       	#  1898.16 	###
+
+	### TA - Dust II B Anchor 	#  1473.32 	###
+
+	### YEKINDAR     	#  1226.66 	###
+
+	### splendor     	#  1199.95 	###
+
+	### HTandRX's Agent 	#  1135.67 	###
+
+	### qwer         	#   645.75 	###
+
+	### Mini_Pekka   	#   563.36 	###
+
+	### HTandRX's Agent Ultimate Aggressive 	#   398.26 	###
+
+	### ExaBot       	#    39.23 	###
+
+	### Testing1     	#     0.00 	###
+
+	### brawl_stars  	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### Tier 3 Agent 	#    -8.12 	###
+
+	### MegaKnight   	#  -534.83 	###
+
+	### jet2holiday  	#  -700.34 	###
+
+	###########################################
+
+	@@@ WINNER: ws @@@
+
+	################# SIMULATION RESULTS ##################
+
+	#### Agent 		# Profit 	###
+
+	###########################################
+
+	### HTandRX's Agent Ultimate Aggressive 	#  3982.09 	###
+
+	###              	#  2748.68 	###
+
+	### splendor     	#  2105.53 	###
+
+	### ws           	#  1646.63 	###
+
+	### brawl_stars  	#  1596.11 	###
+
+	### Testing1     	#  1572.72 	###
+
+	### qwer         	#  1461.66 	###
+
+	### TA - Dust II B Anchor 	#  1441.65 	###
+
+	### clash_royale 	#  1385.72 	###
+
+	### HTandRX's Agent 	#   945.41 	###
+
+	### ExaBot       	#   255.50 	###
+
+	### jet2holiday  	#   220.24 	###
+
+	### Randombot67  	#   214.72 	###
+
+	### aiayn        	#   114.68 	###
+
+	### Updawg       	#     0.00 	###
+
+	### 956f1f38-b6cb-43ea-9811-a2c0764a67d9 	#     0.00 	###
+
+	### YEKINDAR     	#     0.00 	###
+
+	### Tier 3 Agent 	#    -9.87 	###
+
+	### Mini_Pekka   	#   -79.14 	###
+
+	### MegaKnight   	#   -96.97 	###
+
+	###########################################
+
+	@@@ WINNER: HTandRX's Agent Ultimate Aggressive @@@
